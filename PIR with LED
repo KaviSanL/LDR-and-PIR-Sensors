@@ -17,6 +17,6 @@ digitalWrite(D1,HIGH);
 }
 else
 {
-digitalWrite(D2,LOW);
+digitalWrite(D1,LOW);
 }
 }
